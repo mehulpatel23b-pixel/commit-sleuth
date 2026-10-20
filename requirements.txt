@@ -1,0 +1,1 @@
+# commit-sleuth uses only the Python standard library - no deps required
